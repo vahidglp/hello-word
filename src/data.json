@@ -1,0 +1,47 @@
+{
+    "title": "hello i`m vahid",
+    "subtitle": "Full Stack Dev | Open-Source Enthusiast | Blogger | Ninja",
+    "links": {
+      "github": "https://github.com/vahidglp",
+      "linkedin": "https://www.linkedin.com/in/vahid-golpayegani-b860bb5b/",
+      "telegram": "@vahidglp"
+    },
+    "section": [
+      {
+        "title": "About",
+        "item": [
+          {
+            "type": "p",
+            "content": "When my dev senses kick-in I build presumably awesome stuff. I stay close to the community and try to keep tabs with the pace at which the web is evolving. I also like to blog what I learn."
+          }
+        ]
+      },
+      {
+        "title": "Skills",
+        "item": [
+          {
+            "type": "card",
+            "content": {
+              "image": "/url",
+              "title": "Javascript"
+            }
+          },
+          {
+            "type": "card",
+            "content": {
+              "image": "/url",
+              "title": "HTML"
+            }
+          },
+          {
+            "type": "card",
+            "content": {
+              "image": "/url",
+              "title": "CSS"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
